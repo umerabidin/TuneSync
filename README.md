@@ -72,17 +72,3 @@ npx expo run:andriod
 ## Contribution
 
 TuneSync welcomes contributions, but to avoid overlapping work, please create an issue or leave a comment to discuss your plans before you begin.
-
-## Our Community
-
-You can join [Discord Channel](https://discord.gg/CSqbu3TT)
-
-## Become a tester
-
-### Android
-
-Not ready to release
-
-### iOS
-
-Distribute via TestFlight. Please leave your Apple email address in the Discord channel or contact me at zqian15@asu.edu to receive a redeem code.
